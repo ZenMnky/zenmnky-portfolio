@@ -1,0 +1,72 @@
+{
+    "projects":[
+        {
+            "id": "0",
+            "project_name": "Phrase Hunter",
+            "description": "desc0",
+            "technologies": ["javascript", "node.js", "express"],
+            "live_link": "https://zenmnky.github.io/th-fsjs-phrase-hunter/",
+            "git_repo": "https://github.com/ZenMnky/th-fsjs-phrase-hunter",
+            "image_urls":
+                {
+                    "main": "https://via.placeholder.com/550x550.png?text=Main-Project-Image",
+                    "additional": [
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-01",
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-02",
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-03"
+                    ]
+                }              
+        },
+        {
+            "id": "1",
+            "project_name": "Employee Directory",
+            "description": "desc1",
+            "technologies": ["javascript", "node.js", "express"],
+            "live_link": "https://www.github.com/zenmnky",
+            "git_repo": "https://zenmnky.github.io/th-fsjs-public-api-requests/",
+            "image_urls":
+                {
+                    "main": "https://via.placeholder.com/550x550.png?text=Main-Project-Image",
+                    "additional": [
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-01",
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-02",
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-03"
+                    ]
+                }              
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive Form",
+            "description": "desc2",
+            "technologies": ["javascript", "node.js", "express"],
+            "live_link": "https://zenmnky.github.io/th-fsjs-interactive-form/",
+            "git_repo": "https://github.com/ZenMnky/th-fsjs-interactive-form",
+            "image_urls":
+                {
+                    "main": "https://via.placeholder.com/550x550.png?text=Main-Project-Image",
+                    "additional": [
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-01",
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-02",
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-03"
+                    ]
+                }              
+        },
+        {
+            "id": "3",
+            "project_name": "List Pagnation and Filtering",
+            "description": "desc2",
+            "technologies": ["javascript", "node.js", "express"],
+            "live_link": "https://zenmnky.github.io/th-list-pagination-and-filtering",
+            "git_repo": "https://github.com/ZenMnky/th-list-pagination-and-filtering",
+            "image_urls":
+                {
+                    "main": "https://via.placeholder.com/550x550.png?text=Main-Project-Image",
+                    "additional": [
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-01",
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-02",
+                        "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-03"
+                    ]
+                }              
+        }
+    ]
+}
