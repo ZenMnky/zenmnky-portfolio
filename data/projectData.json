@@ -9,7 +9,7 @@
             "git_repo": "https://github.com/ZenMnky/th-fsjs-phrase-hunter",
             "image_urls":
                 {
-                    "main": "https://via.placeholder.com/550x550.png?text=Main-Project-Image",
+                    "main": "/static/img/projects/pharase-hunter-main.jpg",
                     "additional": [
                         "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-01",
                         "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-02",
@@ -22,11 +22,11 @@
             "project_name": "Employee Directory",
             "description": "desc1",
             "technologies": ["javascript", "node.js", "express"],
-            "live_link": "https://www.github.com/zenmnky",
-            "git_repo": "https://zenmnky.github.io/th-fsjs-public-api-requests/",
+            "live_link": "https://zenmnky.github.io/th-fsjs-public-api-requests/",
+            "git_repo": "https://github.com/ZenMnky/th-fsjs-public-api-requests",
             "image_urls":
                 {
-                    "main": "https://via.placeholder.com/550x550.png?text=Main-Project-Image",
+                    "main": "/static/img/projects/employee-directory-main.jpg",
                     "additional": [
                         "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-01",
                         "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-02",
@@ -43,7 +43,7 @@
             "git_repo": "https://github.com/ZenMnky/th-fsjs-interactive-form",
             "image_urls":
                 {
-                    "main": "https://via.placeholder.com/550x550.png?text=Main-Project-Image",
+                    "main": "/static/img/projects/interactive-form-main.jpg",
                     "additional": [
                         "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-01",
                         "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-02",
@@ -60,7 +60,7 @@
             "git_repo": "https://github.com/ZenMnky/th-list-pagination-and-filtering",
             "image_urls":
                 {
-                    "main": "https://via.placeholder.com/550x550.png?text=Main-Project-Image",
+                    "main": "/static/img/projects/list-pagination-main.jpg",
                     "additional": [
                         "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-01",
                         "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-02",

@@ -14,17 +14,11 @@ html(class="no-js" lang="en" dir="ltr")
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='https://placehold.it/550x350')
+            a(href='/about')
+              img.thumbnail(src=`${developer.dev_headshot}`)
           .cell.auto
-
-            //- Add your name here.
-            h5=developer.dev_name
-
-            //- Add text here to describe who you are, what you do, and why you are so awesome.
+            h5=developer.dev_name             
             p.text-light=developer.dev_description
-
-
-            //- Add about page route to the href below. 
             a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
@@ -32,7 +26,7 @@ html(class="no-js" lang="en" dir="ltr")
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
 
-          //- Add your name here.  This is for the mobile screen sized version.
+          //- For the mobile screen sized version.
           span.title-bar-title=developer.dev_name
       block content
         

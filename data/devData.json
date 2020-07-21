@@ -2,6 +2,8 @@
     "developer": {
         "dev_name": "Justin Hager",
         "dev_email": "NonViolentPigeonManifestation@Protonmail.com",
+        "dev_headshot": "/static/img/headshot.jpg",
+        "dev_title": "Full Stack JavaScript Devloper",
         "dev_description": "Existing until there is something better to do",
         "social_media": {
             "github": "https://github.com/zenmnky",

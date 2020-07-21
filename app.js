@@ -1,8 +1,11 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 const mainRoutes = require('./routes');
 const projectRoutes = require('./routes/projects');
+const { projects } = require('./data/projectData.json');
+const { developer } = require('./data/devData.json');
+const requiredData = {projects, developer};
 
 app.set('view engine', 'pug');
 app.use('/static/', express.static('public'));
@@ -16,11 +19,13 @@ app.use((req, res, next) => {
     err.status = 404;
     next(err);
 });
+
 //Error handler
 app.use((err, req, res, next) => {
     res.locals.error = err;
     res.status(err.status);
-    res.render('error');
+    console.log(`Error ${err.status}:  ${err.message}`);
+    res.render('error', requiredData);
 });
 
 app.listen(port, () => {
