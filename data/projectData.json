@@ -77,7 +77,7 @@
             "git_repo": "https://https://github.com/ZenMnky/zenmnky-portfolio",
             "image_urls":
                 {
-                    "main": "https://via.placeholder.com/550x550.png?text=Main-Imagenod",
+                    "main": "https://via.placeholder.com/550x550.png?text=Main-Image",
                     "additional": [
                         "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-01",
                         "https://via.placeholder.com/1200x550.png?text=Additional-Project-Image-02",
