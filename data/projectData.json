@@ -4,7 +4,7 @@
             "id": "0",
             "project_name": "Phrase Hunter",
             "description": "Biodiesel retro narwhal eiusmod ullamco bushwick. Irony lumbersexual roof party, ea VHS mlkshk est chia polaroid hoodie kinfolk ugh fashion axe. Ut tilde readymade mixtape af, kinfolk slow-carb yr twee. Cupidatat paleo street art skateboard, bushwick taxidermy deserunt consectetur squid quis +1. Echo park green juice 3 wolf moon kinfolk. Kickstarter lumbersexual ugh, pariatur messenger bag cloud bread migas polaroid kombucha meggings fam duis crucifix lo-fi.",
-            "technologies": ["javascript", "node.js", "express"],
+            "technologies": ["Vanilla JavaScript", "Object-Oriented Programming"],
             "live_link": "https://zenmnky.github.io/th-fsjs-phrase-hunter/",
             "git_repo": "https://github.com/ZenMnky/th-fsjs-phrase-hunter",
             "image_urls":
@@ -21,7 +21,7 @@
             "id": "1",
             "project_name": "Employee Directory",
             "description": "Bicycle rights marfa before they sold out intelligentsia. Scenester yr wayfarers velit ad try-hard, esse sed beard health goth. Mustache health goth in, selvage VHS aute blue bottle sriracha ad dolore skateboard cornhole. Waistcoat gochujang tote bag kinfolk, vaporware est yr shabby chic typewriter ad commodo. Master cleanse ullamco etsy four dollar toast offal pug.",
-            "technologies": ["javascript", "node.js", "express"],
+            "technologies": ["Vanilla JavaScript", "API"],
             "live_link": "https://zenmnky.github.io/th-fsjs-public-api-requests/",
             "git_repo": "https://github.com/ZenMnky/th-fsjs-public-api-requests",
             "image_urls":
@@ -38,7 +38,7 @@
             "id": "2",
             "project_name": "Interactive Form",
             "description": "Wolf air plant fashion axe letterpress, blog yuccie crucifix elit. Marfa in kinfolk austin ea. Coloring book normcore roof party 8-bit cred aute deep v hammock squid. Live-edge ad pinterest sint.",
-            "technologies": ["javascript", "node.js", "express"],
+            "technologies": ["Vanilla JavaScript"],
             "live_link": "https://zenmnky.github.io/th-fsjs-interactive-form/",
             "git_repo": "https://github.com/ZenMnky/th-fsjs-interactive-form",
             "image_urls":
@@ -55,7 +55,7 @@
             "id": "3",
             "project_name": "List Pagnation and Filtering",
             "description": "Put a bird on it mumblecore excepteur, tbh ullamco retro subway tile chillwave. Squid venmo typewriter, palo santo chia cardigan +1 letterpress glossier. Succulents distillery cardigan, man braid vape austin banh mi iceland keytar hot chicken retro lyft prism four loko. Live-edge typewriter williamsburg, nostrud ut hell of austin intelligentsia pok pok tumblr meditation. Tacos et irony biodiesel minim mlkshk.",
-            "technologies": ["javascript", "node.js", "express"],
+            "technologies": ["Vanilla Javascript", "Progressive Enhancement"],
             "live_link": "https://zenmnky.github.io/th-list-pagination-and-filtering",
             "git_repo": "https://github.com/ZenMnky/th-list-pagination-and-filtering",
             "image_urls":
@@ -72,7 +72,7 @@
             "id": "4",
             "project_name": "Portfolio",
             "description": "Ea man braid reprehenderit salvia, gluten-free yuccie VHS blue bottle 8-bit tattooed. Whatever eu vegan, gentrify pop-up in qui. Id copper mug heirloom vexillologist anim chambray magna mumblecore pickled aute meditation qui roof party. Farm-to-table kinfolk cloud bread exercitation tofu aesthetic poutine esse fingerstache ex echo park offal. Flannel vape crucifix, occaecat fingerstache kinfolk artisan commodo williamsburg mlkshk asymmetrical.",
-            "technologies": ["javascript", "node.js", "express"],
+            "technologies": ["javascript", "node.js", "express", "pug"],
             "live_link": "https://zenmnky-portfolio.herokuapp.com/",
             "git_repo": "https://https://github.com/ZenMnky/zenmnky-portfolio",
             "image_urls":
