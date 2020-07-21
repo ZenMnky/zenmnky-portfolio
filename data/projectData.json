@@ -74,7 +74,7 @@
             "description": "Ea man braid reprehenderit salvia, gluten-free yuccie VHS blue bottle 8-bit tattooed. Whatever eu vegan, gentrify pop-up in qui. Id copper mug heirloom vexillologist anim chambray magna mumblecore pickled aute meditation qui roof party. Farm-to-table kinfolk cloud bread exercitation tofu aesthetic poutine esse fingerstache ex echo park offal. Flannel vape crucifix, occaecat fingerstache kinfolk artisan commodo williamsburg mlkshk asymmetrical.",
             "technologies": ["Vanilla Javascript", "Node.js", "Express", "Pug"],
             "live_link": "https://zenmnky-portfolio.herokuapp.com/",
-            "git_repo": "https://https://github.com/ZenMnky/zenmnky-portfolio",
+            "git_repo": "https://github.com/ZenMnky/zenmnky-portfolio",
             "image_urls":
                 {
                     "main": "https://via.placeholder.com/550x550.png?text=Main-Image",
