@@ -1,0 +1,65 @@
+extends layout
+
+block content
+    include includes/back.pug
+
+    article.grid-container
+        h1=developer.dev_name
+        p 
+            a(href=`mailto:${developer.dev_email}`) #{developer.dev_email} | 
+            a(href=`${developer.social_media.portfolio}`) Portfolio | 
+            a(href=`${developer.social_media.linkedin}`) LinkedIn | 
+            a(href=`${developer.social_media.github}`) GitHub
+
+        hr
+
+        .resume-summary-div
+            h2 Summary
+            p Experienced in [Technology] and [Technology] based programming and a background in [Technology]. Possess strong skills in [ team-building and project management] that help [what type of companies] [drive what positive result/impact]. [Other unique anecdote(keep it one sentence)].
+        
+        hr
+
+        .resume-projects-div
+            h2 Personal Projects
+            
+            each project, index in projects
+                span.personal-proj-span
+                    a(href=`/projects/${project.id}`) 
+                        h4 #{project.project_name}
+                    p 
+                        a(href=`${project.git_repo}`) GitHub | 
+                        a(href=`${project.live_link}`) Demo
+                    p #{project.description}
+                    
+                    h6 Skills -  #{project.technologies}
+                    
+                    ul 
+                        li Utilized JSON Web Tokens and localStorage to store encrypted user information client-side.
+                        li Action verb + what you did +  result 
+                        li Action verb + what you did +  result 
+                        li Action verb + what you did +  result
+                    
+            
+        hr        
+        .resume-experience-div
+            h2 Experience
+            
+            each exp in developer.experience
+                span.resume-experience-span
+                    h4 #{exp.job_title}, #{exp.company}, #{exp.city}, #{exp.state}
+                    p #{exp.start} - #{exp.end}
+                        ul 
+                            each bullet in exp.bullets
+                                li=bullet
+                            
+        hr
+        .resume-education-div
+            h2 Education
+            
+            each edItem in developer.education
+                span.resume-education-span
+                    h4 #{edItem.ed_name}
+                    p #{edItem.last_attended}
+                    p #{edItem.cert_info}
+
+    include includes/back.pug

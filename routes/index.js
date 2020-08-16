@@ -12,6 +12,10 @@ router.get('/about', (req, res) => {
     res.render('about', requiredData);
 });
 
+router.get('/resume', (req, res) => {
+    res.render('resume', requiredData);
+});
+
 router.get('/projects:id', (req, res) => {
     res.render('project', requiredData)
 });

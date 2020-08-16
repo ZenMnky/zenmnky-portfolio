@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8000;
 const mainRoutes = require('./routes');
 const projectRoutes = require('./routes/projects');
 const { projects } = require('./data/projectData.json');

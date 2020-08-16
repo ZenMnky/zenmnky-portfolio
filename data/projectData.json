@@ -7,6 +7,12 @@
             "technologies": ["Vanilla JavaScript", "Object-Oriented Programming"],
             "live_link": "https://zenmnky.github.io/th-fsjs-phrase-hunter/",
             "git_repo": "https://github.com/ZenMnky/th-fsjs-phrase-hunter",
+            "proj_bullets": [
+                "Utilized JSON Web Tokens and localStorage to store encrypted user information client-side.",
+                "Action verb + what you did +  result",
+                "Action verb + what you did +  result",
+                "Action verb + what you did +  result"
+            ],
             "image_urls":
                 {
                     "main": "/static/img/projects/pharase-hunter-main.jpg",
@@ -53,7 +59,7 @@
         },
         {
             "id": "3",
-            "project_name": "List Pagnation and Filtering",
+            "project_name": "List Pagnation",
             "description": "Put a bird on it mumblecore excepteur, tbh ullamco retro subway tile chillwave. Squid venmo typewriter, palo santo chia cardigan +1 letterpress glossier. Succulents distillery cardigan, man braid vape austin banh mi iceland keytar hot chicken retro lyft prism four loko. Live-edge typewriter williamsburg, nostrud ut hell of austin intelligentsia pok pok tumblr meditation. Tacos et irony biodiesel minim mlkshk.",
             "technologies": ["Vanilla Javascript", "Progressive Enhancement"],
             "live_link": "https://zenmnky.github.io/th-list-pagination-and-filtering",
@@ -72,7 +78,7 @@
             "id": "4",
             "project_name": "Portfolio",
             "description": "Ea man braid reprehenderit salvia, gluten-free yuccie VHS blue bottle 8-bit tattooed. Whatever eu vegan, gentrify pop-up in qui. Id copper mug heirloom vexillologist anim chambray magna mumblecore pickled aute meditation qui roof party. Farm-to-table kinfolk cloud bread exercitation tofu aesthetic poutine esse fingerstache ex echo park offal. Flannel vape crucifix, occaecat fingerstache kinfolk artisan commodo williamsburg mlkshk asymmetrical.",
-            "technologies": ["Vanilla Javascript", "Node.js", "Express", "Pug"],
+            "technologies": ["Javascript", "Node.js", "Express", "Pug"],
             "live_link": "https://zenmnky-portfolio.herokuapp.com/",
             "git_repo": "https://github.com/ZenMnky/zenmnky-portfolio",
             "image_urls":
