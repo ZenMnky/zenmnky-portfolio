@@ -30,13 +30,13 @@ h1,h2,h3,h4,h5,p{
   color: #666;
 }
 
-.button{
+/* .button{
   background-color: #333;
 }
 
 .button:hover{
   background-color: #111;
-}
+} */
 
 a{
   color: #333;
@@ -58,7 +58,7 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  /* background: #121213; */
   color: #fff;
   box-shadow: none !important;
 }
@@ -78,9 +78,9 @@ a:hover{
     text-transform: uppercase;
   }
 
-  .portfolio-me a:hover{
+  /* .portfolio-me a:hover{
     color: #999;
-  }
+  } */
 
 .portfolio-breadcrumb{
   margin: 0;
@@ -147,4 +147,42 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+/* 👨‍🔬 Custom Modifications */
+
+
+.popAndShadow:hover { 
+  transform: scale(1.1);
+  transition: all .5s;
+}
+
+.profile-image:hover {
+  transform: scale(1.1) rotate(5deg);
+  transition: all .5s;
+}
+
+.portfolio-me {
+  background: #116330;
+}
+
+.portfolio-me p{
+  color: whitesmoke;
+}
+
+.portfolio-me a{
+  color: whitesmoke;
+}
+
+.portfolio-me a:hover{
+  text-decoration: underline;
+  
+}
+
+.button{
+  background-color: #296411;
+}
+
+.button:hover{
+  background-color: #116064;
 }

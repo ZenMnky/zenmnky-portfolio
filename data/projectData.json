@@ -8,7 +8,7 @@
             "live_link": "https://zenmnky.github.io/th-fsjs-phrase-hunter/",
             "git_repo": "https://github.com/ZenMnky/th-fsjs-phrase-hunter",
             "proj_bullets": [
-                "Utilized JSON Web Tokens and localStorage to store encrypted user information client-side.",
+                "Action verb + what you did +  result",
                 "Action verb + what you did +  result",
                 "Action verb + what you did +  result",
                 "Action verb + what you did +  result"
@@ -44,7 +44,7 @@
             "id": "2",
             "project_name": "Interactive Form",
             "description": "Wolf air plant fashion axe letterpress, blog yuccie crucifix elit. Marfa in kinfolk austin ea. Coloring book normcore roof party 8-bit cred aute deep v hammock squid. Live-edge ad pinterest sint.",
-            "technologies": ["Vanilla JavaScript", "Form Validation"],
+            "technologies": ["Vanilla JavaScript", "Form Validation", "RegExp"],
             "live_link": "https://zenmnky.github.io/th-fsjs-interactive-form/",
             "git_repo": "https://github.com/ZenMnky/th-fsjs-interactive-form",
             "image_urls":
@@ -77,7 +77,7 @@
         {
             "id": "4",
             "project_name": "Portfolio",
-            "description": "Ea man braid reprehenderit salvia, gluten-free yuccie VHS blue bottle 8-bit tattooed. Whatever eu vegan, gentrify pop-up in qui. Id copper mug heirloom vexillologist anim chambray magna mumblecore pickled aute meditation qui roof party. Farm-to-table kinfolk cloud bread exercitation tofu aesthetic poutine esse fingerstache ex echo park offal. Flannel vape crucifix, occaecat fingerstache kinfolk artisan commodo williamsburg mlkshk asymmetrical.",
+            "description": "Server side JavaScript project. Uses dynamic template rendering and routes to handle requests. Uses middleware to utilize static files",
             "technologies": ["Javascript", "Node.js", "Express", "Pug"],
             "live_link": "https://zenmnky-portfolio.herokuapp.com/",
             "git_repo": "https://github.com/ZenMnky/zenmnky-portfolio",

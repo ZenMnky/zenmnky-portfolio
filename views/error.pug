@@ -1,8 +1,10 @@
 extends layout
 
 block content
-    nav.grid-container.portfolio-breadcrumb
-        a(href='/') ← Back
-    h1= error.message
-    h2 Status code: #{error.status}
-    pre= error.stack
+    include includes/back.pug
+
+    article.grid-container
+        img(src="/static/img/duck.jpg" alt="quizzical duck")
+        h1= error.message
+        h2 Status code: #{error.status}
+        pre= error.stack
